@@ -1,18 +1,41 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<h1 align="center"> Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+<h1 align="center"> Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Chimwemwe Sinyinza</h1>
 
 
 <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Systems Engineer Specialist at Infosys
-- 🌱 I am a budding Software Developer and a Cyber Security Enthusiast
+### About me :
+- 🌱 I am a budding Software Developer and a Cyber Security Enthusiast at Microverse
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 Obsessed with the idea of improving personally.
 - 💬 Ask me about anything, I am happy to help :smile:
-- 🧗 I try to Go beyond and push the bounds.
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- 🧗 I am currently learning Full-Stack Web Development ```(HTML, CSS, Ruby on Rails, JavaScript, and React)```,
+- ⚡ Fun facts: 
+    > I love connecting with different people :raised_hands:
+    > I also love to play video games.
 
 <br>
+<br>
+
+### 🛠 &nbsp; Tech Stacks:
+
+<br>
+
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![WordPress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress&logoColor=563D7C)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+<br>
+<br>
+
 
 
 <h1 align="center">📈  &nbsp; My GitHub Stats</h1>
