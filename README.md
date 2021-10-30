@@ -2,7 +2,7 @@
 <h1 align="center"> Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Chimwemwe Sinyinza</h1>
 
 
-<img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="210px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### About me :
 - 🌱 I am a budding Software Developer and a Cyber Security Enthusiast at Microverse
@@ -12,13 +12,12 @@
 - 🧗 I am currently learning Full-Stack Web Development
     ```(HTML, CSS, Ruby on Rails, JavaScript, and React)```,
 - ⚡ Fun facts: 
-    > I love connecting with different people :raised_hands:
-
+    > I love connecting with different people :raised_hands: ,
     > I also love to play video games.
 
-<br>
+
 ### 🛠 &nbsp; Tech Stacks:
-<br>
+
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -32,8 +31,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<br>
-<br>
 
 <h1 align="center">📈  &nbsp; My GitHub Stats</h1>
 
