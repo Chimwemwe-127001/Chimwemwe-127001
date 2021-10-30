@@ -9,11 +9,11 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 Obsessed with the idea of improving personally.
 - 💬 Ask me about anything, I am happy to help :smile:
-- 🧗 I am currently learning Full-Stack Web Development
-    ```(HTML, CSS, Ruby on Rails, JavaScript, and React)```,
 - ⚡ Fun facts: 
     > I love connecting with different people :raised_hands: ,
     > I also love to play video games.
+- 🧗 I am currently learning Full-Stack Web Development ```(HTML, CSS, Ruby on Rails, JavaScript, and React)```,
+
 
 
 ### 🛠 &nbsp; Tech Stacks:
