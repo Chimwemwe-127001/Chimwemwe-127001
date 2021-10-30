@@ -12,13 +12,11 @@
 - 🧗 I am currently learning Full-Stack Web Development ```(HTML, CSS, Ruby on Rails, JavaScript, and React)```,
 - ⚡ Fun facts: 
     > I love connecting with different people :raised_hands:
+    <br>
     > I also love to play video games.
 
 <br>
-<br>
-
 ### 🛠 &nbsp; Tech Stacks:
-
 <br>
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
@@ -35,8 +33,6 @@
 
 <br>
 <br>
-
-
 
 <h1 align="center">📈  &nbsp; My GitHub Stats</h1>
 
