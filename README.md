@@ -8,7 +8,7 @@
 - 🌱 I am a budding Software Developer and a Cyber Security Enthusiast at Microverse
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 Obsessed with the idea of improving personally.
-- 💬 Ask me about anything, I am happy to help :smile:
+- 💬 Ask me about anything, happy to help :smile:
 - ⚡ Fun facts: 
     > I love connecting with different people :raised_hands: ,
     > I also love to play video games.
