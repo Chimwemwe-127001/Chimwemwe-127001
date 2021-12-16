@@ -31,6 +31,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+<codersrank-summary username="Chimwemwe-127001" layout="vertical">
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Chimwemwe-127001&badges=2&show-avatar=false&style=--header-bg-color:%2327292f;--border-radius:0px" />
+</codersrank-summary>
 
 <h1 align="center">📈  &nbsp; My GitHub Stats</h1>
 
