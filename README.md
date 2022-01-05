@@ -49,7 +49,3 @@
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Chimwemwe-127001&theme=gotham"></p>
 <br>
-<p align="center">
-  <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=Chimwemwe-127001&theme=gotham&area=true">
-</p>
