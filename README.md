@@ -1,39 +1,50 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <h1 align="center"> Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Chimwemwe Sinyinza</h1>
 
+<h2> 👨🏻‍💻 &nbsp; About me: </h2> 
+<img src="https://img.shields.io/badge/Chimwemwe%20Sinyinza-is%20Available for Remote Work-purple" />
 
-<img align="right" height="210px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-### About me :
-- 🌱 I am a budding Software Developer and a Cyber Security Enthusiast at Microverse
+- See [my portfolio](http://chimwemwesinyinza.netlify.app/) for personal projects I have worked on and built.
+- 🌱 I am a Full-stack web developer and a Cyber Security Enthusiast
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 Obsessed with the idea of improving personally.
 - 💬 Ask me about anything, happy to help :smile:
 - ⚡ Fun facts: 
     > I love connecting with different people :raised_hands: ,
     > I also love to play video games.
-- 🧗 I am currently learning Full-Stack Web Development ```(HTML, CSS, Ruby on Rails, JavaScript, and React)```,
 
 
+### 🛠 &nbsp; Tech Stack, Version Control and Development tools.
 
-### 🛠 &nbsp; Tech Stacks:
+<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white">
+<img src="https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress&logoColor=563D7C">
+<img src="https://img.shields.io/badge/-JSON-F29111?style=flat&logo=json&logoColor=FFFFF">
+<img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/Git-GitBash-black?style=flat&logo=git&logoColor=white">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white">
+<img src="https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800">
+<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-666666?style=flat&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Kali_Linux-1793D1?style=flat&logo=kali-linux&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-%23F24E1E?style=flat&logo=ubuntu&logoColor=white">
 
-
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![WordPress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress&logoColor=563D7C)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-<codersrank-summary username="Chimwemwe-127001" layout="vertical">
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Chimwemwe-127001&badges=2&show-avatar=false&style=--header-bg-color:%2327292f;--border-radius:0px" />
-</codersrank-summary>
 
 <h1 align="center">📈  &nbsp; My GitHub Stats</h1>
 
