@@ -1,5 +1,5 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<h1 align="center"> Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Chimwemwe Sinyinza</h1>
+<h1 align="center"> Hello, I am Chimwemwe Sinyinza</h1>
 
 <h2> 👨🏻‍💻 &nbsp; About me: </h2> 
 <img src="https://img.shields.io/badge/Chimwemwe%20Sinyinza-is%20Available for Remote Work-purple" />
